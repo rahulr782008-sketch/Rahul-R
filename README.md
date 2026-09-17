@@ -1,5 +1,5 @@
 # Rahul-R 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulr782008&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulr782008/&show/_icons=true)
 <h1 align="center">Hi there, I'm Rahul R! 👋</h1>
 
 <h3 align="center">👨‍💻 About Me</h3>
